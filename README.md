@@ -1,5 +1,5 @@
 # APCSA Freedom Project
-by X
+by Nephtali
 
 ## Context
 The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
