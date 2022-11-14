@@ -1,7 +1,9 @@
 # Entry 1
-##### X/X/XX
+##### 11/11/22
 
-Text
+### What I'm Learning
+
+Current I'm beggining my process on studying how to use Python/PyGame. So far
 
 [Next](entry02.md)
 
