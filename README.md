@@ -2,10 +2,10 @@
 by Nephtali
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about me learning a tool to create something. The purpose of this blog is to show the background process behind learning the tool and using it.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a 2d platfomer game. This blog will walk through my process of independently studying Python/PyGame in order to make my project.
 
 ## Links
 
