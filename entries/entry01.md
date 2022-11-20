@@ -1,11 +1,11 @@
 # Entry 1
 ##### 11/11/22
 
-### Content
+## Content
 
 Currently, I am beggining my process on studying a tool to use for my project. The tool I selected was PyGame for Python. I chose this tool because I wanted to learn another language that I could pair and partner up with Java while keeping the complexity on the more milder side. I plan to make a video game. Most likely a 2d platformer as PyGame wasn't made with 3d capabilities, so making a 3d game would be very tasking and difficult. 
 
-### Sources
+## Sources
 
 As for my resources to look through and learn. I looked at:
 - [realpython.com](https://realpython.com/pygame-a-primer/) 
@@ -27,7 +27,7 @@ These are another website and even some videos I looked through for inspiration:
 ###### ^the tutorial that's most inpirational to me^
 - [Python Pygame Zelda Game Tutorial for Beginners](https://www.youtube.com/watch?v=iRrMsxQCiJg)
 
-### EDP
+## EDP
 
 In the beggining stage of my project. So not much for my engineering design process as of the moment.
 
