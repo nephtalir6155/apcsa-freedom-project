@@ -1,5 +1,5 @@
 # APCSA Freedom Project
-by Nephtali
+by Nephtali R.
 
 ## Context
 The “Freedom Project” for APCSA is all about me learning a tool to create something. The purpose of this blog is to show the background process behind learning the tool and using it.
