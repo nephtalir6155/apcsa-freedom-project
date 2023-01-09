@@ -19,7 +19,7 @@ Over the past month, since my last blog entry, I have been learning PyGame by fi
 These have the same functions as they do in both Java and Javascript, but there are some differences. As shown below:
 
 
-'''In Python:
+```py In Python:
 a = 200
 b = 33
 if b > a:
@@ -28,9 +28,9 @@ elif a == b:
   print("a and b are equal")
 else:
   print("a is greater than b")
-'''
+```
 
-'''In Java:
+```In Java:
 int a = 33;
 int b = 33;
 if(b > a){
@@ -42,22 +42,21 @@ System.out.print("a and b are equal");
 else{
 System.out.print("a is greater than b");
 }
-'''
+```
 
 Some of the differences are: 
  - In the first code block, you can see that it is not nessesary to declare variables as you would in Java/Script. So no needing to use declaration (int, double, String, etc.)
  - No use of "()". I don't need to write the statement in a set of parenthesis 
 
 
-
-'''
+```py
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
   "year": 1964
 }
 print(thisdict)
-'''
+```
 
 
 ## My Goal for Break
