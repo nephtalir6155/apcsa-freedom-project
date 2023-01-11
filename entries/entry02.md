@@ -46,7 +46,8 @@ System.out.print("a is greater than b");
 
 Some of the differences are: 
  - In the first code block, you can see that it is not nessesary to declare variables as you would in Java/Script. So no needing to use declaration (int, double, String, etc.)
- - No use of "()". I don't need to write the statement in a set of parenthesis 
+ - No use of "()". I don't need to write the statement in a set of parenthesis or close with a semi-colon, but instead write code after an colon
+ - Must make sure to indent in Python as for the computer to under what "if, else, or elif" the code needs to fall under
 
 
 ```py
