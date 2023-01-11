@@ -60,7 +60,8 @@ print(thisdict)
 
 
 ## My Goal for Break
-
+ 
+My goal during my break is to mostly catch up on sleep, drink more water, and workout more. I also would like to learn tricks and shortcuts while learning my tool as well as attempt to begin working on it. I haven't fully decided exactly what I would like to make at the current moment, but I'm going along the lines of an 2d open-world game with interactable items and game mechanics. Hoping to figure out and create a plan for starting my project.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
