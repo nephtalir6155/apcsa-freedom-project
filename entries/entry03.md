@@ -2,7 +2,7 @@
 ##### 2/8/23
 
 ### Catch up
-So first off, if it wasn't stated before, I'll state it again. I am creating a game platformer game using the Python coding library PyGame. I am working on creating a shooter with weapon mechanics and all that sort of good stuff. Currently, the only thing that I've done so far was a creat a title screen menu (Which is totally not broken at all btw (: ). 
+So first off, if it wasn't stated before, I'll state it again. I am creating a game platformer game using the Python coding library PyGame. I am working on creating a shooter with weapon mechanics and all that sort of good stuff. Currently, the only thing that I've done so far was a create a title screen menu 
 
 ### How was it done?
 
