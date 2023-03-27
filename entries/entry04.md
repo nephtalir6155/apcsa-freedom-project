@@ -1,7 +1,7 @@
 # Entry 4
-##### X/X/XX
+##### 3/27/23
 
-Text
+### Beggining the actual product
 
 [Previous](entry03.md) | [Next](entry05.md)
 
