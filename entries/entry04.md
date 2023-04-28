@@ -41,7 +41,9 @@ These are what I've worked on so far and now I'm going to explain a bit of what 
 
 ### Weapons (shooting)
 
-![image](https://user-images.githubusercontent.com/73478976/235229218-6db3c251-5379-43c0-9dee-581770c5340c.png)
+![image](https://user-images.githubusercontent.com/73478976/235229218-6db3c251-5379-43c0-9dee-581770c5340c.png) <br> `positions bullet off the players hitbox(rect) when you shoot. That way it doesn't collide with the player and inflict self damage  `
+
+![image](https://user-images.githubusercontent.com/73478976/235235349-b9849b6f-e74a-46dd-856a-3fc774b3c145.png) <br> `bullet properties`
 
 
 
